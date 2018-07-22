@@ -12,4 +12,6 @@ After completing this project, you will know:
 +	How to tune the topology and configuration of neural networks in Keras.
 
 ## License & Copyright
+```
 © M.Junaid Fiaz
+```
