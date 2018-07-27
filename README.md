@@ -1,6 +1,6 @@
 # Binary Classification (Mines vs. Rocks)
 
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/junaidfiaz143/Binary-Classification-Mines-vs.-Rocks/blob/master/LICENSE) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://github.com/junaidfiaz143/Binary-Classification-Mines-vs.-Rocks/blob/master/LICENSE)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/junaidfiaz143/Binary-Classification-Mines-vs.-Rocks/blob/master/LICENSE) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org/)
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Binary%20Classification%20using%20multiple%20Keras%20APIs%20model%20https://github.com/junaidfiaz143/Binary-Classification-Mines-vs.-Rocks&&via=junaidfiaz143&hashtags=ML,TF,KERAS,developer)
@@ -38,10 +38,10 @@ What things you need to install the software and how to install them
 puthon IDE
 jupyter notebook
 ```
-
+<!-- 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system -->
 
 ## Built With
 
@@ -54,17 +54,17 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **M.Junaid Fiaz** - *Initial work* - [JD](https://github.com/junaidfiaz143)
+* **M.Junaid Fiaz** - [JD](https://github.com/junaidfiaz143)
 <!-- 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
 ## License
 
-This project is licensed under the APACHE License - see the [LICENSE.md](LICENSE.md) file for details
-
+This project is licensed under the APACHE License - see the [LICENSE.md](LICENSE) file for details
+<!-- 
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+* etc -->
 
